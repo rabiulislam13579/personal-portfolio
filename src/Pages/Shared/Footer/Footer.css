@@ -1,0 +1,12 @@
+.title{
+    font-family: 'Lobster', cursive;
+}
+.social{
+    background-color:white;
+    width: 30px;
+    height: 30px;
+    border: 2px solid ;
+    border-radius: 50%;
+    padding-left: 1px;
+    margin-right: 10px;
+}
